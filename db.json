@@ -2,7 +2,6 @@
   "todos": [
     {
       "name": "first",
-      "isLoaded": true,
       "items": [
         {
           "id": "1",
