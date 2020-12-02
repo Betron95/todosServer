@@ -1,41 +1,43 @@
 [
+  {
+    "name": "first",
+    "items": [
       {
-        name: 'first',
-        items: [
-          {
-            id: '1',
-            text: 'delectus aut autem',
-            completed: false 
-          },
-          { 
-            id: '2',
-            text: 'repellendus sunt dolores',
-            completed: false
-          },
-          {
-            id: '3',
-            text: 'ab voluptatum amet',
-            completed: false }
-        ],
+        "id": "1",
+        "text": "delectus aut autem",
+        "completed": false 
+      },
+      { 
+        "id": "2",
+        "text": "repellendus sunt dolores",
+        "completed": false
       },
       {
-        name: 'second',
-        items: [
-          { 
-            id: '4',
-            text: 'quo laboriosam deleniti',
-            completed: false
-          },
-          {
-            id: '5',
-            text: 'dolorum est consequatur',
-            completed: false 
-          }, 
-          { 
-            id: '6',
-            text: 'molestiae ipsa aut voluptatibus',
-            completed: false
-          }
-       ],
-      },
+        "id": "3",
+        "text": "ab voluptatum amet",
+        "completed": false 
+        
+      }
     ]
+  },
+  {
+    "name": "second",
+    "items": [
+      { 
+        "id": "4",
+        "text": "quo laboriosam deleniti",
+        "completed": false
+      },
+      {
+        "id": "5",
+        "text": "dolorum est consequatur",
+        "completed": false 
+      }, 
+      { 
+        "id": "6",
+        "text": "molestiae ipsa aut voluptatibus",
+        "completed": false
+      }
+    ]
+  }
+]
